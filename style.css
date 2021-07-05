@@ -33,12 +33,10 @@ nav{
 .half-width{
     width: 50%;
     padding-left: 5%; 
-    
-}
+    }
 .half-width img{
     width: 100%;
     margin-right: 100px;
-
 } 
 .half-width h1{
     font-size: 60px;
@@ -90,4 +88,17 @@ span{
     font-size: 18px;
     color: #595959;
     margin-bottom: 40px;
+}
+.Recipie{
+    width: 500px;
+    text-align: center;
+    float:inline-start;
+    margin-left: 400px;
+    margin-top: 60px;
+}
+.Recipie h1{
+    color:#4d4d4d; ;
+}
+.Recipie p{
+    color:#595959 ;
 }
