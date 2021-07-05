@@ -95,10 +95,36 @@ span{
     float:inline-start;
     margin-left: 400px;
     margin-top: 60px;
+    margin-bottom: 20px;
 }
 .Recipie h1{
     color:#4d4d4d; ;
 }
 .Recipie p{
     color:#595959 ;
+}
+.sectionD{
+    display: flex;
+}
+.Recipies-item{
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    color: black;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+    height: 400px;
+    width: 50%
+    
+    }
+.Recipies-item img{
+    width: 250px;
+}
+.Recipies-img{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.sectionD h3{
+    font-weight: 900;
+
 }
