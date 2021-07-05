@@ -1,6 +1,6 @@
 body {
     font-family: 'Lato', sans-serif;
-    margin: 0; padding: 0; box-sizing: border-box;
+    margin: 0;
 }
 nav{
     width: 100%;
@@ -54,7 +54,7 @@ span{
     margin-top: 10px;
     text-decoration: none;
     background: linear-gradient(45deg, #fc4558, #fd951d);
-    padding: 20px 35px;
+    padding: 15px 25px;
     border-radius: 30px;
     color: white;
     font-weight: 700;
@@ -67,13 +67,27 @@ span{
     }
 .sectionB{
     display: flex;
-    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
 }
 .half-widthB{
-    width: 40%;
+    width: 50%;
 }
 .half-widthB img {
     width: 50%;
     margin-left: 200px;
+}
+#halfwidBthTaxt{
+    width: 350px;
+    margin-top: 200px;
+}
+.half-widthB h1 {
+    font-size: 30px;
+    color: #4d4d4d;
+
+}
+.half-widthB p {
+    font-size: 18px;
+    color: #595959;
+    margin-bottom: 40px;
 }
